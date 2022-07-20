@@ -1,6 +1,6 @@
 # 111S-Web-scraping
 
-### 作業一 爬取古騰堡計畫中文電子書
+### 作業一、爬取古騰堡計畫中文電子書
 
 - 古騰堡計畫網址：<https://www.gutenberg.org/browse/languages/zh>
 - 爬取方法:
